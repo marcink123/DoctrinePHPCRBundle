@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/phpcr-bundle",
+    "name": "marcink/phpcr-bundle",
     "type": "symfony-bundle",
     "description": "Symfony DoctrinePHPCRBundle",
     "keywords": ["PHPCR", "ODM", "Database", "Persistence"],
